@@ -79,3 +79,23 @@ The Sustainable Development Goal (SDG) chosen for integration into the Badminton
 - **Promoting Female Athlete Participation**: Through visible gender statistics, the system could also promote initiatives that encourage more female athletes to enter competitive badminton, thus advancing gender equality in the sport.
 
 # V. Instructions for running the program
+### Add a Player
+- You will be prompted to enter details such as name, age, rank, country, and gender.
+
+### View All Players
+- he system will display a list of all players, including their ID, name, age, rank, country, and gender.
+
+### Search for a Player
+- You will need to enter a player ID. The system will retrieve and display the player with the given ID.
+
+### Update Player Information
+- You will enter the player ID you want to update, and then you can modify fields such as name, age, rank, country, or gender.
+
+### Delete a Player
+- Enter the player ID to delete that player from the system.
+
+### Display Gender Statistics
+- The program will display the count of male and female players in the system.
+
+### Exit
+- The program will exit the system.
