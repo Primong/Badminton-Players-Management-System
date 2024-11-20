@@ -82,20 +82,34 @@ The Sustainable Development Goal (SDG) chosen for integration into the Badminton
 ### Add a Player
 - You will be prompted to enter details such as name, age, rank, country, and gender.
 
+![Screenshot 2024-11-20 220850](https://github.com/user-attachments/assets/78a9d50a-4c99-447e-8fa2-ae00106a325f)
+
 ### View All Players
 - he system will display a list of all players, including their ID, name, age, rank, country, and gender.
+
+![Screenshot 2024-11-20 220945](https://github.com/user-attachments/assets/f38cbfc4-6ad0-4509-b116-bd216ba35b4f)
 
 ### Search for a Player
 - You will need to enter a player ID. The system will retrieve and display the player with the given ID.
 
+![Screenshot 2024-11-20 221021](https://github.com/user-attachments/assets/3e8a1844-89ad-470e-ba4b-bc8bb0fc54a7)
+
 ### Update Player Information
 - You will enter the player ID you want to update, and then you can modify fields such as name, age, rank, country, or gender.
+
+![Screenshot 2024-11-20 221127](https://github.com/user-attachments/assets/a308e3f2-bc7c-4f15-9ae0-b8d464ecc312)
 
 ### Delete a Player
 - Enter the player ID to delete that player from the system.
 
+![Screenshot 2024-11-20 221207](https://github.com/user-attachments/assets/20a33825-3767-4106-b8fe-cb69a1416741)
+
 ### Display Gender Statistics
 - The program will display the count of male and female players in the system.
 
+![Screenshot 2024-11-20 221357](https://github.com/user-attachments/assets/6933f229-f470-40cb-aaea-a8d62cdd43a0)
+
 ### Exit
 - The program will exit the system.
+
+![Screenshot 2024-11-20 221433](https://github.com/user-attachments/assets/b13d940e-1c17-48eb-870a-238529eb4a26)
