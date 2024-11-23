@@ -1,6 +1,6 @@
 # Spartan Shuttlers: Badminton Players Management System
 
-Badminton Player Management System is a program that allow users to manage player information through various functionalities such as adding, viewing, searching, updating, and deleting player details. 
+Badminton Player Management System is a program that allow users to manage players, tournaments, and matches, providing features to add, view, update, and delete players, tournaments, and matches, as well as track gender statistics through a command-line interface 
 
 # Table of Contents
 
@@ -20,22 +20,26 @@ Badminton Player Management System is a program that allow users to manage playe
 5. [Instructions for running the program](#instructions-for-running-the-program)
 
 # l. Project Overview
-The Badminton Player Management System is a console-based application designed to help manage and maintain a list of badminton players. This system allows administrators to add, view, update, delete, and search for players based on unique identifiers. It also includes a feature to display gender statistics, showing the number of male and female players in the system. The system is designed to be user-friendly, offering a simple menu interface to perform various actions related to player data management.
+The Badminton Player Management System is a Python-based application designed to streamline the management of players, tournaments, and matches in the sport of badminton. This system allows users to easily add, view, and update information related to players, tournaments, and matches, providing a comprehensive solution for managing badminton events and player statistics.
 
 # ll. Features
 Add a Player
 
 View All Players
 
-Search for a Player
+Add Tournament
+
+View Tournaments
+
+Add Match
+
+View Matches
 
 Update Player Information
 
 Delete a Player
 
 Display Gender Statistics
-
-Exit the System
 
 # lll. Explanation of how Python concepts, libraries, etc. were applied
 ### Object-Oriented Programming (OOP)
