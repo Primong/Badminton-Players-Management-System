@@ -44,9 +44,9 @@ Display Gender Statistics
 1.1. The system leverages Object-Oriented Programming (OOP) principles to define entities such as Player, Match, and Tournament.
 
 1.2. Each entity is modeled using a class, encapsulating attributes and behaviors. For instance:
-The Player class stores player information (ID, name, age, rank, country, and gender).
-The Match class stores details of a match, including the players and the winner.
-The Tournament class stores tournament details and manages the matches within the tournament.
+- The Player class stores player information (ID, name, age, rank, country, and gender).
+- The Match class stores details of a match, including the players and the winner.
+- The Tournament class stores tournament details and manages the matches within the tournament.
 
 ## Methods and Functionality
 2.1. Methods within each class perform specific actions like adding a match to a tournament (add_match()), updating player details (update_player()), or displaying gender statistics (show_gender_statistics()).
@@ -64,50 +64,21 @@ The Tournament class stores tournament details and manages the matches within th
 4.2. This allows the system to dynamically manage multiple players, tournaments, and matches. The use of lists facilitates easy iteration over objects to display data or apply operations, such as viewing all players or finding a player by ID.
 
 ## String Formatting
-5.1 Python’s f-string formatting is used to generate formatted output, ensuring that details about players, matches, and tournaments are displayed neatly.
+5.1 Python’s **f-string formatting** is used to generate formatted output, ensuring that details about players, matches, and tournaments are displayed neatly.
 
 ## Control Flow
-6.1. The while loop is used in multiple places to repeatedly prompt the user for input until valid input is received (e.g., entering a valid player ID, rank, or age).
+6.1. The **while loop** is used in multiple places to repeatedly prompt the user for input until valid input is received (e.g., entering a valid player ID, rank, or age).
 
-6.2. If-else statements are used to check user choices from the menu and navigate between different options, such as adding a player or viewing matches.
+6.2. **If-else statements** are used to check user choices from the menu and navigate between different options, such as adding a player or viewing matches.
 
 ## User Interaction
 7.1. The input() function is extensively used to interact with the user, accepting input for player details, match results, and other actions like adding tournaments or players. It also serves as the main method to accept user choices for navigating the system.
 
 7.2. The print() function is used throughout the program to provide output to the user, displaying information about players, tournaments, matches, and statistics.
 
+# IV. SDG 5 Gender Equality
+Badminton Player Management System contributes to both **SDG 3 (Good Health and Well-Being)** and **SDG 5 (Gender Equality)** by promoting a healthy and active lifestyle through badminton, while also ensuring gender equality in sports.
+- **SDG 3** is supported through the system’s facilitation of physical activity, mental well-being, and potential future features for tracking player health.
+- **SDG 5** is enhanced by promoting equal opportunities for male and female athletes, helping to ensure gender equality in sports and empowering women and girls through their involvement in badminton.  
+
 # V. Instructions for running the program
-### Add a Player
-- You will be prompted to enter details such as name, age, rank, country, and gender.
-
-![Screenshot 2024-11-20 220850](https://github.com/user-attachments/assets/78a9d50a-4c99-447e-8fa2-ae00106a325f)
-
-### View All Players
-- he system will display a list of all players, including their ID, name, age, rank, country, and gender.
-
-![Screenshot 2024-11-20 220945](https://github.com/user-attachments/assets/f38cbfc4-6ad0-4509-b116-bd216ba35b4f)
-
-### Search for a Player
-- You will need to enter a player ID. The system will retrieve and display the player with the given ID.
-
-![Screenshot 2024-11-20 221021](https://github.com/user-attachments/assets/3e8a1844-89ad-470e-ba4b-bc8bb0fc54a7)
-
-### Update Player Information
-- You will enter the player ID you want to update, and then you can modify fields such as name, age, rank, country, or gender.
-
-![Screenshot 2024-11-20 221127](https://github.com/user-attachments/assets/a308e3f2-bc7c-4f15-9ae0-b8d464ecc312)
-
-### Delete a Player
-- Enter the player ID to delete that player from the system.
-
-![Screenshot 2024-11-20 221207](https://github.com/user-attachments/assets/20a33825-3767-4106-b8fe-cb69a1416741)
-
-### Display Gender Statistics
-- The program will display the count of male and female players in the system.
-
-![Screenshot 2024-11-20 221357](https://github.com/user-attachments/assets/6933f229-f470-40cb-aaea-a8d62cdd43a0)
-
-### Exit
-- The program will exit the system.
-
-![Screenshot 2024-11-20 221433](https://github.com/user-attachments/assets/b13d940e-1c17-48eb-870a-238529eb4a26)
