@@ -82,3 +82,4 @@ Badminton Player Management System contributes to both **SDG 3 (Good Health and 
 - **SDG 5** is enhanced by promoting equal opportunities for male and female athletes, helping to ensure gender equality in sports and empowering women and girls through their involvement in badminton.  
 
 # V. Instructions for running the program
+- Add a Player
