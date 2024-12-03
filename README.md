@@ -14,7 +14,7 @@ Badminton Player Management System is a program that allow users to manage playe
 - [String Formatting](#string-formatting)
 - [Control Flow](#control-flow)
 - [User Interaction](#user-interaction)
-4. [SDG 5 Gender Equality](#sdg-5-gender-equality)
+4. [SDG 3 Gender Equality](#sdg-5-gender-equality)
 5. [Instructions for running the program](#instructions-for-running-the-program)
 
 # l. Project Overview
@@ -76,11 +76,19 @@ Display Gender Statistics
 
 7.2. The print() function is used throughout the program to provide output to the user, displaying information about players, tournaments, matches, and statistics.
 
-# IV. SDG 5 Gender Equality
-Badminton Player Management System contributes to both **SDG 3 (Good Health and Well-Being)** and **SDG 5 (Gender Equality)** by promoting a healthy and active lifestyle through badminton, while also ensuring gender equality in sports.
-- **SDG 3** is supported through the system’s facilitation of physical activity, mental well-being, and potential future features for tracking player health.
-- **SDG 5** is enhanced by promoting equal opportunities for male and female athletes, helping to ensure gender equality in sports and empowering women and girls through their involvement in badminton.  
+# IV. SDG 3 Gender Equality
+Badminton Player Management System contributes **SDG 3 (Good Health and Well-Being)** by promoting a healthy and active lifestyle through badminton
+- **SDG 3** focuses on promoting good health and well-being for all at all ages. The Badminton Player Management System helps in achieving this by encouraging physical activity and sports participation
 
+**Encouraging Physical Activity**
+- Badminton, being a physically demanding sport, promotes cardiovascular health, physical fitness, and general well-being. The system helps in managing players and tournaments, thus facilitating more opportunities for players to compete and stay active.
+
+**Supporting Healthy Competition**
+- The system organizes tournaments and matches, which can inspire individuals to lead active lives and engage in regular physical exercise, helping in the prevention of chronic diseases.
+
+**Fostering Mental Well-Being**
+- Sports like badminton not only improve physical health but also contribute to mental well-being. Engaging in sports can reduce stress, anxiety, and depression, and the system provides a platform to manage and encourage participation in such activities.
+  
 # V. Instructions for running the program
 ### Proram Flow
 **Login:**
@@ -97,6 +105,13 @@ Badminton Player Management System contributes to both **SDG 3 (Good Health and 
 **Match Management:**
 
 - Add matches to tournaments and view match results.
+
+### Log in and Log out
+- Users need to log in with a username and password to access the system
+
+![LOGIN](https://github.com/user-attachments/assets/170fa173-a888-4b2d-8dab-07b12d2a5f85)
+
+![LOGOUT](https://github.com/user-attachments/assets/d4bef744-271c-47b5-820b-1aa7d87e7e13)
 
 ### Add a Player
 
