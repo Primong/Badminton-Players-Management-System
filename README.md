@@ -1,6 +1,6 @@
 # Spartan Shuttlers: Badminton Players Management System
 
-Badminton Player Management System is a program that allow users to manage players, tournaments, and matches, providing features to add, view, update, and delete players, tournaments, and matches, as well as track gender statistics through a command-line interface 
+Badminton Player Management System is a program that allow users to manage players, tournaments, and matches, providing features to add, view, update, and delete players, tournaments, and matches.
 
 # Table of Contents
 
