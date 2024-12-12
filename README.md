@@ -13,7 +13,7 @@ Badminton Player Management System is a program that allow users to manage playe
 - [String Formatting](#string-formatting)
 - [Control Flow](#control-flow)
 - [User Interaction](#user-interaction)
-4. [SDG 3 Gender Equality](#sdg-5-gender-equality)
+4. [SDG 3 Good Health and Well being](#sdg-5-good-health-and-well-being)
 5. [Instructions for running the program](#instructions-for-running-the-program)
 
 # l. Project Overview
@@ -75,7 +75,7 @@ Display Gender Statistics
 
 7.2. The print() function is used throughout the program to provide output to the user, displaying information about players, tournaments, matches, and statistics.
 
-# IV. SDG 3 Gender Equality
+# IV. SDG 3 Good Health and Well Being
 Badminton Player Management System contributes **SDG 3 (Good Health and Well-Being)** by promoting a healthy and active lifestyle through badminton
 - **SDG 3** focuses on promoting good health and well-being for all at all ages. The Badminton Player Management System helps in achieving this by encouraging physical activity and sports participation
 
